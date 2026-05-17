@@ -17,12 +17,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz2511-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz2511-hub&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
@@ -63,11 +57,6 @@
 
 ---
 
-## 🐍 Snake dos commits (ANIMAÇÃO)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/luiz2511-hub/luiz2511-hub/output/github-contribution-grid-snake.svg"/>
-</div>
 
 ---
 
