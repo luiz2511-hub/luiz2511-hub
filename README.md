@@ -70,13 +70,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiz2511-hub&theme=tokyonight&row=1&no-bg=true&margin-w=10"/>
-</div>
-
----
 
 ## 👀 Visitas no perfil
 
@@ -89,15 +82,7 @@
 
 ---
 
-## 📫 Contato
 
-<div align="center">
-
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
 
 ---
 
